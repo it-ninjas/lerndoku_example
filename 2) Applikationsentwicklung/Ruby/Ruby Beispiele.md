@@ -5,7 +5,7 @@
 1000 mal etwas ausgeben
 
 ```
-1000.times do 
+1005.times do
     puts 'Hallo'
 end
 ```
